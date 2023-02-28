@@ -2,3 +2,9 @@
 
 print("Hello World")
 
+
+
+print("JAVA is better")
+
+
+
